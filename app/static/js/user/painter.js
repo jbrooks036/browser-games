@@ -11,7 +11,7 @@
 
   function paintPixel(){
     var color = $('#selected').css('background-color');
-    $(this).css('backgorund-color', color);
+    $(this).css('background-color', color);
   }
 
   function makeCanvas(){
